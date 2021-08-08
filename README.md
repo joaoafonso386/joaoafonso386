@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Im currently working on adding a nice bio to my profile 😁 
+
 <!--
 **joaoafonso386/joaoafonso386** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
