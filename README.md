@@ -1,9 +1,7 @@
-- ### Hi there 👋 ## -
+- ## Hi there 👋 ## -
 
-I:
-
---> Was born in the 90's
---> Studied Maketing
---> Studied Digital Marketing
---> Learned how to code
---> Combined the two 
+--> I was born in the 90's <br>
+--> I Studied Maketing <br>
+--> I Studied Digital Marketing <br>
+--> I Learned how to code <br>
+--> I Combined the two <br>
