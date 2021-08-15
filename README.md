@@ -15,8 +15,8 @@
 <img align="left" width="50" height="50" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg'>
 </div><br>
 <br>
-## Contatct Me ##
-    
+
+## Contatct Me ##  
 <a href="mailto:joaoafonso386@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 ">
