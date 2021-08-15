@@ -10,5 +10,5 @@
 <div>
 <img align="left" width="50" height="50" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg'>
 <img width="50" height="50" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg'>
-<img width="50" height="50" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg'>
+<img align="right" width="50" height="50" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg'>
 </div>
