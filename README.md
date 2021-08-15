@@ -13,7 +13,7 @@
 <img align="left" width="50" height="50" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg'>
 <img align="left" width="50" height="50" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg'>
 <img align="left" width="50" height="50" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg'>
-</div>
+</div><br>
 
 ## Contatct Me ##
     
