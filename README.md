@@ -8,7 +8,7 @@
 
 ## Languages that I know ##
 
-<div style="display:flex;gap:200px;">
-  <img width="50" height="50" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg'>
+<div>
+  <img style="margin-right:90px" width="50" height="50" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg'>
   <img width="50" height="50" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg'>
 </div>
