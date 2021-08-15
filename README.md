@@ -8,6 +8,7 @@
 
 ## Languages that I know ##
 
+
 <div>
 <img align="left" width="50" height="50" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg'>
 <img align="left" width="50" height="50" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg'>
@@ -20,6 +21,7 @@
 <br>
 
 ## Contact Me ##  
+
 
 <a href="mailto:joaoafonso386@gmail.com">
   <img align="left" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
