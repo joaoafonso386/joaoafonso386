@@ -9,6 +9,6 @@
 ## Languages that I know ##
 
 <div>
-  <img style="margin-right:90px" width="50" height="50" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg'>
+  <img style="margin-right:90" width="50" height="50" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg'>
   <img width="50" height="50" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg'>
 </div>
