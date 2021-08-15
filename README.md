@@ -8,4 +8,4 @@
 
 ## Languages that I know ##
 
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg'>
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/html5-original.svg'>
