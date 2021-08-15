@@ -12,5 +12,5 @@
 <img width="50" height="50" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg'>
 <img width="50" height="50" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg'>
 <img width="50" height="50" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg'>
-<img width="50" height="50" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg'>
+<img width="50" height="50" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg'>
 </div>
