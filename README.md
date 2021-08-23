@@ -23,6 +23,9 @@
 
 <img align="left" width="50" height="50" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg'>
 
+<br>
+<br>
+
 ## Contact Me ##  
 
 
