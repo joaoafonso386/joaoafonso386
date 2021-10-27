@@ -14,6 +14,7 @@
 <img align="left" width="50" height="50" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg'>
 <img align="left" width="50" height="50" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg'>
 <img align="left" width="50" height="50" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg'>
+<img align="left" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
 </div>
 
 <br>
