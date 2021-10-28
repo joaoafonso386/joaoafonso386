@@ -4,7 +4,7 @@
 --> I Studied Maketing <br>
 --> I Studied Digital Marketing <br>
 --> I Learned how to code <br>
---> I Combined the two <br>
+--> I am now a developer with marketing skills <br>
 
 ## Languages that I know ##
 
