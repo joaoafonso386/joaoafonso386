@@ -22,10 +22,11 @@
 
 ## Frameworks/Libraries that I have used ##
 
+<div style="displat:flex;">
 <img align="left" width="50" height="50" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg'>
 <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
-
+<div>
 ## Contact Me ##  
 
 
