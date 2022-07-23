@@ -1,7 +1,7 @@
 ## Hi there 👋 ##
 
 --> I was born in the 90's <br>
---> I work with Front-end technologies <br>
+--> I'm Portuguese and I work with Front-end technologies <br>
 --> I like to hit the gym, hang out with friends and collect coins <br>
 --> What I'm most excited to learn next: GO
 
