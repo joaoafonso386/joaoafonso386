@@ -1,10 +1,9 @@
 ## Hi there 👋 ##
 
 --> I was born in the 90's <br>
---> I Studied Maketing <br>
---> I Studied Digital Marketing <br>
---> I Learned how to code <br>
---> I am now a developer with marketing skills <br>
+--> I work with Front-end technologies <br>
+--> I like to hit the gym, hang out with friends and collect coins <br>
+--> What I'm most excited to learn next: GO
 
 ## Languages that I know ##
 
