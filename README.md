@@ -1,11 +1,6 @@
-## Hi there 👋 ##
+Software Dev 
 
---> I was born in the 90's <br>
---> I'm Portuguese and I work with Front-end technologies at the moment<br>
---> I like to hit the gym, hang out with friends and collect coins <br>
---> What I'm most excited to learn next: GO
-
-## Languages that I know ##
+## What I know ##
 
 
 <div>
@@ -19,7 +14,7 @@
 <br>
 <br>
 
-## Frameworks/Libraries that I have used ##
+## What I've used ##
 
 <img align="left" width="50" height="50" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg'>
 <img align="left" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
@@ -30,7 +25,7 @@
 <br>
 <br>
   
-## Contact Me ##  
+## Contacts ##  
 
 
 <a href="mailto:joaoafonso386@gmail.com">
